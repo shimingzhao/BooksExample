@@ -1,0 +1,10 @@
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\BooksExample.dll.config
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\BooksExample.dll
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\BooksExample.pdb
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\EntityFramework.dll
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\EntityFramework.xml
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\obj\Debug\BooksExample.dll
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\obj\Debug\BooksExample.pdb
+E:\Vanier College\Lab\Session 5\C#\BooksExample\BooksExample\obj\Debug\BooksExample.csprojResolveAssemblyReference.cache
